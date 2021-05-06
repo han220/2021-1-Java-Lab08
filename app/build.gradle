@@ -26,5 +26,5 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'edu.handong.csee.java.hw2.IntegratedConverter.App'
+    mainClass = 'edu.handong.csee.java.hw2.IntegratedConverter'
 }
