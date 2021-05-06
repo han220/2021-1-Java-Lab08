@@ -186,3 +186,8 @@ gradle-app.setting
 
 # Ignore Gradle build output directory
 build
+
+# Class Specefication
+.project
+.classpath
+.settings
